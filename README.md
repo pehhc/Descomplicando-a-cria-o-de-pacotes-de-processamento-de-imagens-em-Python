@@ -33,8 +33,7 @@ O projeto consiste em colocar em prática os aprendizados obtidos através do cu
 
 
 
-Feito com :heart: por <a href="https://github.com/pehhc target="_blank">Pedro Quevedo/a>
-
+Feito com :heart:por <a href = "https://github.com/pehhc" target="_blank">Pedro Quevedo </a>
 &#xa0;
 
 <a href="#top">Voltar para o topo</a>
