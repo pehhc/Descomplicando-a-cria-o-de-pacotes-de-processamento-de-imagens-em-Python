@@ -12,4 +12,3 @@ Instalação
 Use o pip do gerenciador de pacotes para instalar package_name
 
 pip instalar nome_do_pacote
-Autor
